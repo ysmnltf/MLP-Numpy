@@ -7,7 +7,6 @@ In the notebook, a multi-layer Perceptron classifier is implemented using numpy 
 The dataset is created using sklearn's 'make_circles'.
 
 <p align="center">
-<span style="font-size:10px">Dataset</span>
 <img width="360" src="./dataset.png">
 </p>
 
