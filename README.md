@@ -1,4 +1,4 @@
-# Implementing Multi-layer Perceptron Classifier with Numpy
+# Implementing a MLP Classifier with NumPy
 
 In the notebook, a multi-layer Perceptron classifier is implemented using numpy library.
 
@@ -11,6 +11,7 @@ The dataset is created using sklearn's 'make_circles'.
 </p>
 
 ## Results
+<div align="center">
 
 <table class="tg">
 <thead>
@@ -53,3 +54,4 @@ The dataset is created using sklearn's 'make_circles'.
   </tr>
 </tbody>
 </table>
+</div>
