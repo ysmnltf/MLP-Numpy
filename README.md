@@ -1,6 +1,6 @@
-# Implementing a MLP Classifier with NumPy
+# An MLP Classifier Implementation with NumPy
 
-In the notebook, a multi-layer Perceptron classifier is implemented using numpy library.
+In the notebook, a Multi-layer Perceptron classifier is implemented using the NumPy library.
 
 ## Dataset
 
